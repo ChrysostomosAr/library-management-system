@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build directories
+target/
+build/
+dist/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Database files
+*.db
+*.sqlite
